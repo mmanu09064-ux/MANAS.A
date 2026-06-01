@@ -1,0 +1,6 @@
+{
+  "name": "Professional Videography & Booking Portal",
+  "description": "A high-end team/solo portfolio showcase for camera operators and videographers, complete with interactive package scheduling, client message logs, secure mockup deposit transactions, and an AI-powered video shoot creative consultant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
